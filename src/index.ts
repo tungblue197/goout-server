@@ -80,4 +80,4 @@ io.on('connect', (socket: Socket) => {
 });
 
 
-server.listen(process.env.SERVER_PORT || 5000)
+server.listen(5000)
