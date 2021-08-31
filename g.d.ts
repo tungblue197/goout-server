@@ -19,5 +19,5 @@ export type Room = {
 
 export type Vote = {
     lId?: string,
-    user:User
+    uId?:string
 }
